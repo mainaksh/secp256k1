@@ -107,6 +107,6 @@ this program generates random numbers of 77 digits and saves them in a txt file
 
 you can change 77 to whatever number to get the desired number of digits 
 
-count variable controls the number of random numbers
+iteration controls the number of random numbers to be generated
 
 **python generaterandomnumbers.py**
