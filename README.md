@@ -67,3 +67,22 @@ C:\Users\Admin\Desktop\code>python search_in_txt.py
 Enter the directory path to search into: C:\Users\Admin\Desktop\code
 
 Enter a 66-character string starting with '03' or '02': 0279be667ef9dcbbac55a06295ce870b07029bfcdb2dce28d959f2815b16f81798
+
+----------------------------------------------------------------------------------------------------------------------------------------
+
+**generatepublickeys.py**
+
+**Generate compressed public keys and saves them in a file**
+
+you can adjust the initial key, target key and increment value as per your choice
+
+you can modify the count inside code to get the desired number of keys and also the name of output file
+
+C:\Users\Admin\Desktop\code>python generatepublickeys.py
+
+Enter the initial key in hex format: 0279be667ef9dcbbac55a06295ce870b07029bfcdb2dce28d959f2815b16f81798
+
+Enter the target key in hex format: 03d6597d465408e6e11264c116dd98b539740e802dc756d7eb88741696e20dfe7d
+
+Enter the increment value: 87686587678436785678436
+
