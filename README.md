@@ -1,3 +1,10 @@
+**mod337.py**
+
+**all operations are modulus 115792089237316195423570985008687907852837564279074904382605163141518161494337**
+
+this is to understand how the private keys shift in the entire curve
+
+
 python mod337.py
 
 command: 1 / 2
@@ -50,6 +57,13 @@ Result: 115792089237316195423570985008687907852837564279074904381625287153638281
 
 command:
 
-**all operations are modulus 115792089237316195423570985008687907852837564279074904382605163141518161494337**
+------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+**search_in_txt.py**
 
-this is to understand how the private keys shift in the entire curve
+**search for compressed public keys under any directory in all the text files**
+
+C:\Users\Admin\Desktop\code>python search_in_txt.py
+
+Enter the directory path to search into: C:\Users\Admin\Desktop\code
+
+Enter a 66-character string starting with '03' or '02': 0279be667ef9dcbbac55a06295ce870b07029bfcdb2dce28d959f2815b16f81798
