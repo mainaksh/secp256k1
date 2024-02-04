@@ -5,7 +5,7 @@
 this is to understand how the private keys shift in the entire curve
 
 
-python mod337.py
+**python mod337.py**
 
 command: 1 / 2
 
@@ -62,7 +62,7 @@ command:
 
 **search for compressed public keys under any directory in all the text files**
 
-C:\Users\Admin\Desktop\code>python search_in_txt.py
+C:\Users\Admin\Desktop\code>**python search_in_txt.py**
 
 Enter the directory path to search into: C:\Users\Admin\Desktop\code
 
@@ -78,7 +78,7 @@ you can adjust the initial key, target key and increment value as per your choic
 
 you can modify the count inside code to get the desired number of keys and also the name of output file
 
-C:\Users\Admin\Desktop\code>python generatepublickeys.py
+C:\Users\Admin\Desktop\code>**python generatepublickeys.py**
 
 Enter the initial key in hex format: 0279be667ef9dcbbac55a06295ce870b07029bfcdb2dce28d959f2815b16f81798
 
@@ -97,3 +97,16 @@ this can handle input files more than 100 GB in size
 both input and output are txt files
 
 **python sortascending.py**
+
+
+---------------------------------------------------------------------------------------------------------------------------------------
+
+**generaterandomnumbers.py**
+
+this program generates random numbers of 77 digits and saves them in a txt file
+
+you can change 77 to whatever number to get the desired number of digits 
+
+count variable controls the number of random numbers
+
+**python generaterandomnumbers.py**
